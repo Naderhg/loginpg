@@ -119,9 +119,10 @@ body{
     height: 40px;
 }
 
-@media (max-width: 767px)
+@media (max-width: 767px){
 .form-container form .forget {
     font-size: 11px;
+}
 }
 .toggle-container{
     position: absolute;
