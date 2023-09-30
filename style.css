@@ -49,7 +49,12 @@ body{
     background-color: transparent;
     border-color: #fff;
 }
-
+@media(max-width: 767px){
+    .container button{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
 .container form{
     background-color: #fff;
     padding: 0 40px;
