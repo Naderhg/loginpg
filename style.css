@@ -123,6 +123,9 @@ body{
 .form-container form .forget {
     font-size: 11px;
 }
+        .form-container form span{
+        font-size: 11px;
+    }
 }
 .toggle-container{
     position: absolute;
